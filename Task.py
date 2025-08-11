@@ -1,0 +1,6 @@
+print("Hello World\nHello World")
+print("Hello " + input("What is your name?"))
+petName=input("What are you known as?")
+print(len(petName))
+age = input("What is your age?")
+print("The age of "+petName+age)
