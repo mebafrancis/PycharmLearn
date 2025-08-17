@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b1797b-9949-4f6e-8f48-11468e1102ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ListWithinList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PasswordGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loopexample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionImplementation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListExamples.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListExamples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Calculator.executor": "Run",
+    "Python.Hangman.executor": "Run",
     "Python.ListExamples.executor": "Run",
     "Python.ListWithinList.executor": "Run",
     "Python.OddEven.executor": "Run",
@@ -52,12 +49,13 @@
     "Python.RollerCoaster.executor": "Run",
     "Python.StudentScore.executor": "Run",
     "Python.Task.executor": "Run",
+    "Python.functionImplementation.executor": "Run",
     "Python.loopexample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
 }]]></component>
   <component name="SharedIndexes">
