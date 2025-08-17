@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b1797b-9949-4f6e-8f48-11468e1102ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListExamples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OddEven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomCode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RollerCoaster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListWithinList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RockPaperScissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loopexample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListExamples.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListExamples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +32,34 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="30jq8VQXPgDwDwxUodvPJbkJuJT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ListExamples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OddEven.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RandomCode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RollerCoaster.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Calculator.executor": "Run",
+    "Python.ListExamples.executor": "Run",
+    "Python.ListWithinList.executor": "Run",
+    "Python.OddEven.executor": "Run",
+    "Python.PasswordGenerator.executor": "Run",
+    "Python.RandomCode.executor": "Run",
+    "Python.RockPaperScissors.executor": "Run",
+    "Python.RollerCoaster.executor": "Run",
+    "Python.StudentScore.executor": "Run",
+    "Python.Task.executor": "Run",
+    "Python.loopexample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
