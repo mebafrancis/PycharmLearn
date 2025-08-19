@@ -3,3 +3,9 @@ def my_function():
 
 my_function()
 
+def greet(name):
+    print(f"Hello, World! {name}")
+    print(f"This is a nested function {name}")
+
+greet("Angela")
+greet("Melba")
