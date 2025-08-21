@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b1797b-9949-4f6e-8f48-11468e1102ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CaeserCipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bidding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functionImplementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/functionImplementation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +39,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bidding.executor": "Run",
     "Python.CaeserCipher.executor": "Run",
     "Python.Calculator.executor": "Run",
+    "Python.Dictionary.executor": "Run",
     "Python.Hangman.executor": "Run",
     "Python.ListExamples.executor": "Run",
     "Python.ListWithinList.executor": "Run",
+    "Python.NewCalculator.executor": "Run",
     "Python.OddEven.executor": "Run",
     "Python.PasswordGenerator.executor": "Run",
     "Python.RandomCode.executor": "Run",
