@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b1797b-9949-4f6e-8f48-11468e1102ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BlackJack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScopeExamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberGuessingGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewCalculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
     "Python.ListExamples.executor": "Run",
     "Python.ListWithinList.executor": "Run",
     "Python.NewCalculator.executor": "Run",
+    "Python.NumberGuessingGame.executor": "Run",
     "Python.OddEven.executor": "Run",
     "Python.PasswordGenerator.executor": "Run",
     "Python.RandomCode.executor": "Run",
@@ -62,7 +61,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
