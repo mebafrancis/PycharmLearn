@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b1797b-9949-4f6e-8f48-11468e1102ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NumberGuessingGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DebuggerInPyCharm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maths.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
     "Python.BlackJack.executor": "Run",
     "Python.CaeserCipher.executor": "Run",
     "Python.Calculator.executor": "Run",
+    "Python.DebuggerInPyCharm.executor": "Debug",
     "Python.Dictionary.executor": "Run",
     "Python.Hangman.executor": "Run",
     "Python.ListExamples.executor": "Run",
