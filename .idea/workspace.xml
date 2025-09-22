@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b1797b-9949-4f6e-8f48-11468e1102ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DebuggerInPyCharm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maths.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,37 +33,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Bidding.executor": "Run",
-    "Python.BlackJack.executor": "Run",
-    "Python.CaeserCipher.executor": "Run",
-    "Python.Calculator.executor": "Run",
-    "Python.DebuggerInPyCharm.executor": "Debug",
-    "Python.Dictionary.executor": "Run",
-    "Python.Hangman.executor": "Run",
-    "Python.ListExamples.executor": "Run",
-    "Python.ListWithinList.executor": "Run",
-    "Python.NewCalculator.executor": "Run",
-    "Python.NumberGuessingGame.executor": "Run",
-    "Python.OddEven.executor": "Run",
-    "Python.PasswordGenerator.executor": "Run",
-    "Python.RandomCode.executor": "Run",
-    "Python.RockPaperScissors.executor": "Run",
-    "Python.RollerCoaster.executor": "Run",
-    "Python.ScopeExamples.executor": "Run",
-    "Python.StudentScore.executor": "Run",
-    "Python.Task.executor": "Run",
-    "Python.functionImplementation.executor": "Run",
-    "Python.loopexample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Bidding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BlackJack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CaeserCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DebuggerInPyCharm.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListWithinList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NewCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumberGuessingGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PasswordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomCode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RockPaperScissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RollerCoaster.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ScopeExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StudentScore.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functionImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loopexample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
