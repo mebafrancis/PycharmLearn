@@ -26,3 +26,9 @@ else:
     print("Invalid operation")
 
 
+def calculator(param, param1, func):
+    return func(param, param1)
+
+
+result = calculator(3,6,addfunction)
+print("Result is: "+str(result))
